@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/angles.dir/degrees.cpp.o CMakeFiles/angles.dir/radians.cpp.o CMakeFiles/angles.dir/main.cpp.o -o angles 

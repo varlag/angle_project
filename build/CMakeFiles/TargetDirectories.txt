@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/angle_project/build/CMakeFiles/angles.dir
+/home/vboxuser/Desktop/angle_project/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/angle_project/build/CMakeFiles/rebuild_cache.dir
