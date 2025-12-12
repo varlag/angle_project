@@ -24,7 +24,7 @@ void test_all_operations() {
     
     radians d_to_r = d1.toRadians();
     
-    std::cout << "Все операции degrees работают!\n\n";
+    std::cout << "Все операции degrees работают!\n";
 
     std::cout << "2. RADIANS:\n";
     radians r1(1.0), r2(2.0);
@@ -32,6 +32,7 @@ void test_all_operations() {
     radians r_sum = r1 + r2;
     radians r_diff = r1 - r2;
     radians r_mult = r1 * 2.0;
+    radians r_mult1 = 2.0 * r1;
     radians r_div = r1 / 2.0;
     radians r_neg = -r1;
     
@@ -44,10 +45,7 @@ void test_all_operations() {
     bool r_lt = (r1 < r2);
     
     degrees r_to_d = r1.toDegrees();
-    
-    std::cout << "Все операции radians работают!\n\n";
-    
-    std::cout << "=== ВСЕ ОПЕРАЦИИ РАБОТАЮТ КОРРЕКТНО ===\n";
+    std::cout << "Все операции radians работают!\n";
 }
 
 int main() {

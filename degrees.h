@@ -10,7 +10,7 @@ private:
 
 public: 
     degrees();
-    explicit degrees(double degrees_value);
+    degrees(double degrees_value);
     
 
     radians toRadians() const; 
@@ -19,6 +19,7 @@ public:
     degrees operator+(const degrees& other) const; 
     degrees operator-(const degrees& other) const;
     degrees operator*(double number) const; 
+    friend radians operator*(double number, const radians& angle);
     degrees operator/(double number) const; 
 
     degrees& operator+=(const degrees& other);

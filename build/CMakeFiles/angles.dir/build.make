@@ -73,43 +73,43 @@ CMakeFiles/angles.dir/degrees.cpp.o: CMakeFiles/angles.dir/flags.make
 CMakeFiles/angles.dir/degrees.cpp.o: /home/vboxuser/Desktop/angle_project/degrees.cpp
 CMakeFiles/angles.dir/degrees.cpp.o: CMakeFiles/angles.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vboxuser/Desktop/angle_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/angles.dir/degrees.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/angles.dir/degrees.cpp.o -MF CMakeFiles/angles.dir/degrees.cpp.o.d -o CMakeFiles/angles.dir/degrees.cpp.o -c /home/vboxuser/Desktop/angle_project/degrees.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/angles.dir/degrees.cpp.o -MF CMakeFiles/angles.dir/degrees.cpp.o.d -o CMakeFiles/angles.dir/degrees.cpp.o -c /home/vboxuser/Desktop/angle_project/degrees.cpp
 
 CMakeFiles/angles.dir/degrees.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/angles.dir/degrees.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vboxuser/Desktop/angle_project/degrees.cpp > CMakeFiles/angles.dir/degrees.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vboxuser/Desktop/angle_project/degrees.cpp > CMakeFiles/angles.dir/degrees.cpp.i
 
 CMakeFiles/angles.dir/degrees.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/angles.dir/degrees.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vboxuser/Desktop/angle_project/degrees.cpp -o CMakeFiles/angles.dir/degrees.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vboxuser/Desktop/angle_project/degrees.cpp -o CMakeFiles/angles.dir/degrees.cpp.s
 
 CMakeFiles/angles.dir/radians.cpp.o: CMakeFiles/angles.dir/flags.make
 CMakeFiles/angles.dir/radians.cpp.o: /home/vboxuser/Desktop/angle_project/radians.cpp
 CMakeFiles/angles.dir/radians.cpp.o: CMakeFiles/angles.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vboxuser/Desktop/angle_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/angles.dir/radians.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/angles.dir/radians.cpp.o -MF CMakeFiles/angles.dir/radians.cpp.o.d -o CMakeFiles/angles.dir/radians.cpp.o -c /home/vboxuser/Desktop/angle_project/radians.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/angles.dir/radians.cpp.o -MF CMakeFiles/angles.dir/radians.cpp.o.d -o CMakeFiles/angles.dir/radians.cpp.o -c /home/vboxuser/Desktop/angle_project/radians.cpp
 
 CMakeFiles/angles.dir/radians.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/angles.dir/radians.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vboxuser/Desktop/angle_project/radians.cpp > CMakeFiles/angles.dir/radians.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vboxuser/Desktop/angle_project/radians.cpp > CMakeFiles/angles.dir/radians.cpp.i
 
 CMakeFiles/angles.dir/radians.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/angles.dir/radians.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vboxuser/Desktop/angle_project/radians.cpp -o CMakeFiles/angles.dir/radians.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vboxuser/Desktop/angle_project/radians.cpp -o CMakeFiles/angles.dir/radians.cpp.s
 
 CMakeFiles/angles.dir/main.cpp.o: CMakeFiles/angles.dir/flags.make
 CMakeFiles/angles.dir/main.cpp.o: /home/vboxuser/Desktop/angle_project/main.cpp
 CMakeFiles/angles.dir/main.cpp.o: CMakeFiles/angles.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vboxuser/Desktop/angle_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/angles.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/angles.dir/main.cpp.o -MF CMakeFiles/angles.dir/main.cpp.o.d -o CMakeFiles/angles.dir/main.cpp.o -c /home/vboxuser/Desktop/angle_project/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/angles.dir/main.cpp.o -MF CMakeFiles/angles.dir/main.cpp.o.d -o CMakeFiles/angles.dir/main.cpp.o -c /home/vboxuser/Desktop/angle_project/main.cpp
 
 CMakeFiles/angles.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/angles.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vboxuser/Desktop/angle_project/main.cpp > CMakeFiles/angles.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vboxuser/Desktop/angle_project/main.cpp > CMakeFiles/angles.dir/main.cpp.i
 
 CMakeFiles/angles.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/angles.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vboxuser/Desktop/angle_project/main.cpp -o CMakeFiles/angles.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vboxuser/Desktop/angle_project/main.cpp -o CMakeFiles/angles.dir/main.cpp.s
 
 # Object files for target angles
 angles_OBJECTS = \
